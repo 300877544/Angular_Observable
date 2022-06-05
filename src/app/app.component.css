@@ -1,0 +1,14 @@
+.input-style {
+    font-weight: unset;
+    font-size: 16px;
+    font-family: opensans-light, sans-serif, FontAwesome !important;
+}
+
+.grooveBorder{
+    border-style: groove;
+}
+
+.movieSearchDiv{
+margin-top: 30px;
+margin-left: 30px;
+}
